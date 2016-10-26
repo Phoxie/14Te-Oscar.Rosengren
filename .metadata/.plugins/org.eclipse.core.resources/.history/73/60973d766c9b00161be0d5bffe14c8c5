@@ -1,0 +1,8 @@
+
+public abstract class Fordon {
+	
+	public int pris; //pris i kr
+	public int vikt; //vikt i kg
+	public String färg;
+
+}
